@@ -11,7 +11,7 @@ _Servers_ use `CentOS`.
 
 You can do this manually in your bash, or use Ansible to push the commands via a playbook to the designated clients/server-pools.
 
-<img src="https://github.com/MadHatterENV/AfterAFreshInstall/markdown_content/icons/code1.png">
+<img src="hhttps://github.com/MadHatterENV/AfterAFreshInstall/blob/master/markdown_content/icons/code1.jpg">
 
 ### LATEST REVISION
 - Latest adjusted on 04/08/2019.
