@@ -693,7 +693,7 @@ Encrypt and recrypt files and streams<br/>
 Timestamp input<br/>
 (https://manpages.debian.org/buster/moreutils/ts.1.en.html) <br/>
  
---
+--<br/>
 <img src="/markdown_content/icons/checklist.jpg"><br/>
 
 ## Extra's
