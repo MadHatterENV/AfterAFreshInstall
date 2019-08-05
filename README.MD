@@ -694,6 +694,8 @@ Timestamp input<br/>
 (https://manpages.debian.org/buster/moreutils/ts.1.en.html) <br/>
  
 --
+<img src="/markdown_content/icons/checklist.jpg"><br/>
+
 ## Extra's
 - [Web-Dev Tools](https://stackify.com/top-command-line-tools/).
 - [AwesomeList](https://github.com/agarrharr/awesome-cli-apps).
