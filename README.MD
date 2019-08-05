@@ -8,7 +8,7 @@
 Here is the list of **commands** i run after a fresh install<br/>
 _Client computers_ are using `Debian` or `Ubuntu`,<br/>
 _Servers_ use `CentOS`.<br/>
-
+<img src="/markdown_content/icons/spacer_screensplit.jpg"><br/>
 You can do this manually in your bash, or use Ansible to push the commands via a playbook to the designated clients/server-pools.
 
 <img src="/markdown_content/icons/code1.jpg"><br/>
