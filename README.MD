@@ -31,208 +31,210 @@ Just clone this repo or download the `command_installer.sh` script, add the exec
 ```
 ## Applications in XFCE ##
 
+# Extra Tools
+sudo apt install cerebro
+sudo apt install xdotool
+sudo apt install wmctrl
+sudo apt install cherrytree
+sudo apt install libzmq5
 
-  131  sudo apt install cerebro
-  132  sudo apt install xdotool
-  133  sudo apt install wmctrl
-  139  sudo apt install cherrytree
-  475  sudo apt install libzmq5
- 1136  sudo apt install software-properties-common
- 1243  sudo apt install update
-
+sudo apt install software-properties-common
+sudo apt install update
   
-# File Explorer
-  125  sudo apt install dolphin
- 1523  sudo apt install doublecmd-gtk
-  603  sudo apt install konsole
+# File Explorer Tools
+sudo apt install dolphin
+sudo apt install doublecmd-gtk
+sudo apt install konsole
 
-# File/Command Finder
-  128  sudo apt install launchy
-  460  sudo apt install updatedb
-  461  sudo apt install locate
+# File/Command Finder Tools
+sudo apt install launchy
+sudo apt install updatedb
+sudo apt install locate
 
-# Network Tools #
-  135  sudo apt install gigolo
-  137  sudo apt install gsshfs
-  138  sudo apt install pac
- 1651  sudo apt install sshmenu-gnome
- 1652  sudo apt install sshmenu
- 1653  sudo apt install kitty
+# Network/Folder Mounting Tools
+sudo apt install gigolo
+sudo apt install gsshfs
+sudo apt install pac
+sudo apt install sshmenu-gnome
+sudo apt install sshmenu
+sudo apt install kitty
 
-# Network Diagnostics
-  426  sudo apt install netstat
-  427  sudo apt install net-tools
+# Network Diagnostics Tools
+sudo apt install netstat
+sudo apt install net-tools
 
-# Process Diagnostics
-  577  sudo apt install htop
+# Process Diagnostics Tools
+sudo apt install htop
 
-# Coding #
-  253  sudo apt install code
-  290  sudo apt install git
-  404  sudo apt install tree
- 1088  sudo apt install sublime-text
+# Coding Tools
+sudo apt install code
+sudo apt install git
+sudo apt install tree
+sudo apt install sublime-text
 
-# Screenshot App
-  606  sudo apt install flameshot
+# Screenshot Tools
+sudo apt install flameshot
 
 # Audio Tools
-  610  sudo apt install kazam
+sudo apt install kazam
 
-# File/Transfert App
-  611  sudo apt install filezilla
+# File/Transfert Tools
+sudo apt install filezilla
 
-# Backup Tool
-  451  sudo apt install syncting
-  612  sudo apt install bacula
+# Backup/Sync Tools
+sudo apt install syncting
+sudo apt install bacula
 
 # Extra Apps
-  613  sudo apt install simplenote
-  621  sudo apt install uget
-  623  sudo apt install thunderbird
-  624  sudo apt install keepassxc
-  625  sudo apt install remmina
-  626  sudo apt install okular
-  627  sudo apt install audacious
-  628  sudo apt install winds
-  629  sudo apt install fontmatrix
-  630  sudo apt install fontbase
-  631  sudo apt install font-manager
+sudo apt install simplenote
+sudo apt install uget
+sudo apt install thunderbird
+sudo apt install keepassxc
+sudo apt install remmina
+sudo apt install okular
+sudo apt install audacious
+sudo apt install winds
+sudo apt install fontmatrix
+sudo apt install fontbase
+sudo apt install font-manager
 
 # Install Vagrant
-  632  sudo apt install vagrant
+sudo apt install vagrant
 
 # Install IRC Chat
-  655  sudo apt install irssi
-  656  sudo apt install irssi-scripts
+sudo apt install irssi
+sudo apt install irssi-scripts
 
 # Install Ansible + Dependecies
-  665  sudo apt install sshpass
- 1084  sudo apt install apt-transport-https
+** Prep a list with IP's and DNS names of the machines you wish to control **
+sudo apt install sshpass
+sudo apt install apt-transport-https
 
-  678  sudo apt install ansible
-  679  sudo apt install puppet
+sudo apt install ansible
+sudo apt install puppet
 
 # Partition Manager
-  811  sudo apt install gparted
+sudo apt install gparted
 
 # Python Extra Tools
-  826  sudo apt install python3-pip
+sudo apt install python3-pip
 
-# Network Security Tools (Hacking)
-  835  sudo apt install netdiscover
-  842  sudo apt install nikto
-  844  sudo apt install burp 
-  848  sudo apt install hydra
-  853  sudo apt install openjdk-11-jre
+# Network Security Tools (WhiteHat>PenTesting)
+sudo apt install netdiscover
+sudo apt install nikto
+sudo apt install burp 
+sudo apt install hydra
+sudo apt install openjdk-11-jre
 
 # Taking Notes ( OneNote Alternative )
-  869  sudo apt install xournal
- 1244  sudo apt install rednotebook
+sudo apt install xournal
+sudo apt install rednotebook
 
 # Upgraded CLI commands
- 1693  sudo apt install pv
- 1694  sudo apt install awk
- 1753  sudo apt install gzip
- 1923  sudo apt install ack
- 1924  sudo apt install silversearcher-ag
- 1927  sudo apt install mtr
- 1930  sudo apt install pydf
- 1933  sudo apt install lftp
- 1936  sudo apt install aria2
- 1937  sudo apt install nnn
- 1940  sudo apt install wikit
- 1955  sudo apt install bat
- 1978  sudo apt install incron
- 1980  sudo apt install xclip
- 1985  sudo apt install ncdu
- 1988  sudo apt install lolcat
- 1989  sudo apt install figlet
- 1990  sudo apt install toilet
- 1991  sudo apt install chafa
- 1992  sudo apt install dstat
- 1993  sudo apt install sar
- 1994  sudo apt install glances
- 1996  sudo apt install slurm
- 1997  sudo apt install ttyrec
- 1998  sudo apt install ipbt
- 1999  sudo apt install multitail
- 2000  sudo apt install socat
- 2001  sudo apt install netpipes
- 2002  sudo apt install tpp
- 2003  sudo apt install iftop
- 2004  sudo apt install iptraf
- 2005  sudo apt install nethogs
- 2006  sudo apt install xargs
- 2007  sudo apt install parallel
- 2008  sudo apt install duplicity
- 2009  sudo apt install rsyncrypto
- 2012  sudo apt install ledger
- 2013  sudo apt install taskwarrior
- 2014  sudo apt install pt
- 2015  sudo apt install remind
- 2016  sudo apt install ttytter
- 2017  sudo apt install earthquake
- 2018  sudo apt install rsstail
- 2019  sudo apt install tig
- 2020  sudo apt install cloc
- 2021  sudo apt install qcalc
- 2022  sudo apt install ipcalc
- 2023  sudo apt install calcurse
- 2024  sudo apt install colordiff
- 2025  sudo apt install qalc
- 2026  sudo apt install hexyl
- 2027  sudo apt install httpie
- 2028  sudo apt install jq
- 2029  sudo apt install ripgrep
- 2030  sudo apt install json_pp
- 2031  sudo apt install inxi
- 2033  sudo apt install s-tui
- 2035  sudo apt install corefreq
- 2036  sudo apt install most
- 2037  sudo apt install borg
- 2038  sudo apt install tmsu
- 2039  sudo apt install pup
- 2040  sudo apt install xiki
- 2041  sudo apt install ddgr
- 2044  sudo apt install lnav
- 2045  sudo apt install w3m
- 2048  sudo apt install buku
- 2049  sudo apt install hub
- 2050  sudo apt install pdftk
- 2051  sudo apt install socat
- 2052  sudo apt install watch
- 2053  sudo apt install ytcc
- 2055  sudo apt install grv
- 2056  sudo apt install cmus
- 2057  sudo apt install mpd
- 2058  sudo apt install mpc
- 2059  sudo apt install ncmpcpp
- 2060  sudo apt install unp
- 2061  sudo apt install teleport
- 2062  sudo apt install espeak
- 2065  sudo apt install ccze
- 2066  sudo apt install column
- 2067  sudo apt install hh
- 2068  sudo apt install axel
- 2069  sudo apt install finch
- 2070  sudo apt install rtv
- 2071  sudo apt install autojump
- 2073  sudo apt install namei
- 2074  sudo apt install sshuttle
- 2075  sudo apt install cheat
- 2076  sudo apt install lynx
- 2077  sudo apt install pwgen
- 2078  sudo apt install tig
- 2079  sudo apt install convert
- 2081  sudo apt install forkstat
- 2082  sudo apt install bashmarks
- 2083  sudo apt install ccat
- 2084  sudo apt install netdiscover
- 2085  sudo apt install fdclone
- 2087  sudo apt install ts
- 2101  sudo apt install libart
- 2102  sudo apt install libart-2.0.2
- 2107  history | grep sudo apt install > software_installations.txt
+sudo apt install pv
+sudo apt install awk
+sudo apt install gzip
+sudo apt install ack
+sudo apt install silversearcher-ag
+sudo apt install mtr
+sudo apt install pydf
+sudo apt install lftp
+sudo apt install aria2
+sudo apt install nnn
+sudo apt install wikit
+sudo apt install bat
+sudo apt install incron
+sudo apt install xclip
+sudo apt install ncdu
+sudo apt install lolcat
+sudo apt install figlet
+sudo apt install toilet
+sudo apt install chafa
+sudo apt install dstat
+sudo apt install sar
+sudo apt install glances
+sudo apt install slurm
+sudo apt install ttyrec
+sudo apt install ipbt
+sudo apt install multitail
+sudo apt install socat
+sudo apt install netpipes
+sudo apt install tpp
+sudo apt install iftop
+sudo apt install iptraf
+sudo apt install nethogs
+sudo apt install xargs
+sudo apt install parallel
+sudo apt install duplicity
+sudo apt install rsyncrypto
+sudo apt install ledger
+sudo apt install taskwarrior
+sudo apt install pt
+sudo apt install remind
+sudo apt install ttytter
+sudo apt install earthquake
+sudo apt install rsstail
+sudo apt install tig
+sudo apt install cloc
+sudo apt install qcalc
+sudo apt install ipcalc
+sudo apt install calcurse
+sudo apt install colordiff
+sudo apt install qalc
+sudo apt install hexyl
+sudo apt install httpie
+sudo apt install jq
+sudo apt install ripgrep
+sudo apt install json_pp
+sudo apt install inxi
+sudo apt install s-tui
+sudo apt install corefreq
+sudo apt install most
+sudo apt install borg
+sudo apt install tmsu
+sudo apt install pup
+sudo apt install xiki
+sudo apt install ddgr
+sudo apt install lnav
+sudo apt install w3m
+sudo apt install buku
+sudo apt install hub
+sudo apt install pdftk
+sudo apt install socat
+sudo apt install watch
+sudo apt install ytcc
+sudo apt install grv
+sudo apt install cmus
+sudo apt install mpd
+sudo apt install mpc
+sudo apt install ncmpcpp
+sudo apt install unp
+sudo apt install teleport
+sudo apt install espeak
+sudo apt install ccze
+sudo apt install column
+sudo apt install hh
+sudo apt install axel
+sudo apt install finch
+sudo apt install rtv
+sudo apt install autojump
+sudo apt install namei
+sudo apt install sshuttle
+sudo apt install cheat
+sudo apt install lynx
+sudo apt install pwgen
+sudo apt install tig
+sudo apt install convert
+sudo apt install forkstat
+sudo apt install bashmarks
+sudo apt install ccat
+sudo apt install netdiscover
+sudo apt install fdclone
+sudo apt install ts
+sudo apt install libart
+sudo apt install libart-2.0.2
+
+history | grep sudo apt install > software_installations.txt
 ```
 
 
@@ -242,13 +244,12 @@ Just clone this repo or download the `command_installer.sh` script, add the exec
 ## Versioning
 :octocat: We use [SemVer](http://semver.org/) for versioning. 
 
-
 ## Author(s)
-This script was only written by :zap: [GodSpeed](--GodSpeed--) :zap:
+This script was written by :zap: [GodSpeed](--GodSpeed--) :zap:<br/>
+Thanks to the linux-community, this list of applications/commands was compiled during my ICT career.
 
 ## License
 This project/code/script is licensed under the :copyright: [MIT license](mit)
-
 
 ## Acknowledgement
 - Hat tip to the guys and girls who maintain the `man date` :)
