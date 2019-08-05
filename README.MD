@@ -5,9 +5,9 @@
 
 ### SYNOPSIS
 
-Here is the list of **commands** i run after a fresh install
-_Client computers_ are using `Debian` or `Ubuntu`,
-_Servers_ use `CentOS`.
+Here is the list of **commands** i run after a fresh install<br/>
+_Client computers_ are using `Debian` or `Ubuntu`,<br/>
+_Servers_ use `CentOS`.<br/>
 
 You can do this manually in your bash, or use Ansible to push the commands via a playbook to the designated clients/server-pools.
 
@@ -233,16 +233,7 @@ Just clone this repo or download the `command_installer.sh` script, add the exec
  2101  sudo apt install libart
  2102  sudo apt install libart-2.0.2
  2107  history | grep sudo apt install > software_installations.txt
-
-
 ```
-
-
-
-
-
-
-
 
 
 ## Coded with
