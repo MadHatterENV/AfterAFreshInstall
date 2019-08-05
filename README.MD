@@ -694,6 +694,10 @@ Timestamp input<br/>
 (https://manpages.debian.org/buster/moreutils/ts.1.en.html) <br/>
  
 --
+## Extra's
+- [Web-Dev Tools](https://stackify.com/top-command-line-tools/).
+- [AwesomeList](https://github.com/agarrharr/awesome-cli-apps).
+- [Network Monitoring Tools](https://haydenjames.io/linux-networking-commands-scripts/).
 
 ## Coded with
 - All my code are coded/debugged with [VS Code](https://code.visualstudio.com/).
