@@ -724,7 +724,7 @@ Thanks to the linux-community, this list of applications/commands was compiled d
 This project/code/script is licensed under the :copyright: [MIT license](mit)
 
 ## Acknowledgement
-- Hat tip to the guys and girls who maintain the `man date` :)
+- Hat tip to the guys and girls who maintain the `man` pages :)
 - Badges generated with [shields.io](https://shields.io)
 - Emojo [Cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/) | [cheatlist](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 - Markdown [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | Github [Mastering](https://guides.github.com/features/mastering-markdown/)
