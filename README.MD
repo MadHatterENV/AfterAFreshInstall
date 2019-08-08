@@ -48,8 +48,7 @@ sudo apt install konsole
 
 # File/Command Finder Tools
 sudo apt install launchy
-sudo apt install updatedb
-sudo apt install locate
+sudo apt install locate # sudo updatedb
 
 # Network/Folder Mounting Tools
 sudo apt install gigolo
@@ -84,6 +83,9 @@ sudo apt install filezilla
 # Backup/Sync Tools
 sudo apt install syncting
 sudo apt install bacula
+sudo apt install rsync
+sudo apt install duplicity
+sudo apt install rsyncrypto
 
 # Extra Apps
 sudo apt install simplenote
@@ -169,8 +171,6 @@ sudo apt install iptraf
 sudo apt install nethogs
 sudo apt install xargs
 sudo apt install parallel
-sudo apt install duplicity
-sudo apt install rsyncrypto
 sudo apt install ledger
 sudo apt install taskwarrior
 sudo apt install pt
@@ -306,6 +306,21 @@ Powerfull client for plain FTP, FTP over SSL/TLS (FTPS) and the SSH File Transfe
 **Bacula**<br/>
 Network backup solution<br/>
 (https://manpages.debian.org/buster/bacula-common/bacula.8.en.html) <br/>
+ 
+--<br/>
+**rsync**<br/>
+Copy/Sync command<br/>
+(https://www.linuxtechi.com/rsync-command-examples-linux/) <br/>
+
+--<br/>
+**Duplicity**<br/>
+Encrypted incremental backup to local or remote storage<br/>
+(https://manpages.debian.org/testing/duplicity/duplicity.1.en.html) <br/>
+ 
+--<br/>
+**Rsyncrypto**<br/>
+Rsync friendly encryption<br/>
+(https://manpages.debian.org/unstable/rsyncrypto/rsyncrypto.1.en.html) <br/>
  
 --<br/>
 **Remmina**<br/>
@@ -516,17 +531,7 @@ Build and execute command lines from standard input<br/>
 **Parallel**<br/>
 Runs programs in parallel<br/>
 (https://manpages.debian.org/testing/moreutils/parallel.1.en.html) <br/>
- 
---<br/>
-**Duplicity**<br/>
-Encrypted incremental backup to local or remote storage<br/>
-(https://manpages.debian.org/testing/duplicity/duplicity.1.en.html) <br/>
- 
---<br/>
-**Rsyncrypto**<br/>
-Rsync friendly encryption<br/>
-(https://manpages.debian.org/unstable/rsyncrypto/rsyncrypto.1.en.html) <br/>
- 
+
 --<br/>
 **Ledger**<br/>
 Command-line, double-entry account reporting tool<br/>
