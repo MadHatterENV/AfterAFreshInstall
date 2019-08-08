@@ -126,6 +126,11 @@ sudo apt install burp
 sudo apt install hydra
 sudo apt install openjdk-11-jre
 
+# Checking Logs
+sudo apt install multitail
+sudo apt install swatch
+sudo apt install lnav
+
 # Taking Notes ( OneNote Alternative )
 sudo apt install xournal
 sudo apt install rednotebook
@@ -156,7 +161,6 @@ sudo apt install glances
 sudo apt install slurm
 sudo apt install ttyrec
 sudo apt install ipbt
-sudo apt install multitail
 sudo apt install socat
 sudo apt install netpipes
 sudo apt install tpp
