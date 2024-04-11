@@ -22,6 +22,9 @@ Currently only this README.MD is included
 In the future you will be able to clone this repo onto your machine.
 
 
+## Extra Addition
+https://github.com/agarrharr/awesome-cli-apps
+
 Instructions
 
 Just clone this repo or download the `command_installer.sh` script, add the execute permission (`chmod +x command_installer.sh`).
