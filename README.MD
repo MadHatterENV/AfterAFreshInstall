@@ -720,7 +720,7 @@ Timestamp input<br/>
 :octocat: We use [SemVer](http://semver.org/) for versioning. 
 
 ## Author(s)
-This script was written by :zap: [MadHatterX](--MadHatterX--) :zap:<br/>
+This script was written by :zap: [MadHatter4²](https://github.com/MadHatterENV) :zap:<br/>
 Thanks to the linux-community, this list of applications/commands was compiled during my ICT career.
 
 ## License
