@@ -1,7 +1,7 @@
 # Commands to do After Fresh Installation.
 
 
-<img src="https://img.shields.io/badge/MadHatterENV-github-green"> <img src="https://img.shields.io/badge/code by-GodSpeed-orange">
+<img src="https://img.shields.io/badge/MadHatterENV-github-green"> <img src="https://img.shields.io/badge/code by-MADhatter4²-orange">
 
 ### SYNOPSIS
 
