@@ -14,7 +14,7 @@ You can do this manually in your bash, or use Ansible to push the commands via a
 <img src="/markdown_content/icons/code1.jpg"><br/>
 
 ### LATEST REVISION
-- Latest adjusted on 04/08/2019.
+- Latest adjusted on 05/06/2024.
 
 
 ## Installation & prerequisites
