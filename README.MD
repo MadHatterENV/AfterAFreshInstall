@@ -48,6 +48,7 @@ sudo apt install update
 sudo apt install dolphin
 sudo apt install doublecmd-gtk
 sudo apt install konsole
+sudo apt install yazi
 
 # File/Command Finder Tools
 sudo apt install launchy
