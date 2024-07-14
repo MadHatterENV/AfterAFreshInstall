@@ -241,6 +241,7 @@ sudo apt install fdclone
 sudo apt install ts
 sudo apt install libart
 sudo apt install libart-2.0.2
+sudo apt install atuin
 
 history | grep sudo apt install > software_installations.txt
 ```
@@ -705,7 +706,13 @@ Encrypt and recrypt files and streams<br/>
 **Ts**<br/>
 Timestamp input<br/>
 (https://manpages.debian.org/buster/moreutils/ts.1.en.html) <br/>
- 
+
+--<br/>
+**atuin**<br/>
+Magic Shell History<br/>
+(https://github.com/atuinsh/atuin) <br/>
+
+
 --<br/>
 <img src="/markdown_content/icons/checklist.jpg"><br/>
 
